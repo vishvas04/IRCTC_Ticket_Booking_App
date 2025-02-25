@@ -1,4 +1,5 @@
 package org.example.entities;
+import java.util.*;
 
 public class User {
     private String name;
